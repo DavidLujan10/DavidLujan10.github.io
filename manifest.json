@@ -1,27 +1,27 @@
 {
-    "name": "Kinlan's AirHorner of Infamy",
-    "short_name": "Local",
-    "background_color": "#F29C7A",
-    "theme_color": "#F29C7A",
+    "name": "Refoest App",
+    "short_name": "Reforest",
+    "background_color": "#58D68D",
+    "theme_color": "#3BA668",
     "display": "fullscreen",
     "icons": [
         {
-            "src": "launcher-icon-1x.png",
+            "src": "48.png",
             "type": "img/png",
             "sizes": "48x48"
         },
         {
-            "src": "launcher-icon-2x.png",
+            "src": "96.png",
             "type": "img/png",
             "sizes": "96x96"
         },
         {
-            "src": "launcher-icon-4x.png",
+            "src": "144.png",
             "type": "img/png",
             "sizes": "144x144"
         },
         {
-            "src": "launcher-icon-5x.png",
+            "src": "192.png",
             "type": "img/png",
             "sizes": "192x192"
         }
