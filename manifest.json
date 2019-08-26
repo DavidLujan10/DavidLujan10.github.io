@@ -6,16 +6,6 @@
     "display": "standalone",
     "icons": [
         {
-            "src": "48.png",
-            "type": "img/png",
-            "sizes": "48x48"
-        },
-        {
-            "src": "96.png",
-            "type": "img/png",
-            "sizes": "96x96"
-        },
-        {
             "src": "144.png",
             "type": "img/png",
             "sizes": "144x144"
